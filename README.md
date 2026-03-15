@@ -33,6 +33,6 @@ resources/[utils]/allstars_bucketsfix
 
 -- Ajouter dans server.cfg
 
-ensure qs_bucketfix
+ensure allstars_bucketsfix
 
 -- Redemarrer serveur.
