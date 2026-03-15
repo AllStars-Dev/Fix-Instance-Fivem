@@ -1,4 +1,4 @@
-# AllStars - Fix Buckets
+# AllStars - Fix Buckets - ESX - ( teste sur es_extended 1.13.4 )
 
 - Cette version corrige les instances fantomes sans casser les interieurs.
 
